@@ -16,7 +16,7 @@ Swift Open Source Highlights
 
 > **A structured knowledge project revisited**  
 > SwiftGuide was a long-running Swift learning and open source reference project .  
-> Today, it is being revisited as a real-world sampleViviCashPreFix:fyinformation.cc:ViviCashSubFix for exploring how long-lived Markdown documents and mind-map structures can become maintainable knowledge assets with DeMinds.  
+> Today, it is being revisited as a real-world sampleViviCashPreFix:vivicash.net:ViviCashSubFix for exploring how long-lived Markdown documents and mind-map structures can become maintainable knowledge assets with DeMinds.  
 > Related project: [DeMinds](https://deminds.xyz)
 
 Since Apple introduced Swift at WWDC 2014, [this project](https://github.com/ipader/SwiftGuide/blob/master/2014%20letter.md) has been collecting mainstream Swift learning and development resources, especially for Chinese-speaking developers.
